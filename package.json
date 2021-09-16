@@ -1,6 +1,6 @@
 {
   "name": "advanced-antd-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "对antd-form,antd-table封装适用于快速业务列表页开发",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",

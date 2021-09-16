@@ -1,11 +1,11 @@
-# advanced-antd-form
+# advanced-antd-list
 
 ```bash
-npm install --save advanced-antd-form
+npm install --save advanced-antd-list
 ```
 
 or
 
 ```bash
-yarn add advanced-antd-form
+yarn add advanced-antd-list
 ```
